@@ -34,8 +34,10 @@ I enjoy solving real-world problems through code and continuously learning new t
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-toro-goitea-475b71277/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portafolio-francisco-toro.vercel.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frantoro10)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:torofrancisco13@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frantoro10)  
+
+📧 Email: [tuemail@gmail.com](mailto:tuemail@gmail.com)
+
 
 ---
 
