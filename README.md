@@ -36,7 +36,7 @@ I enjoy solving real-world problems through code and continuously learning new t
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portafolio-francisco-toro.vercel.app/)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frantoro10)  
 
-📧 Email: [tuemail@gmail.com](mailto:tuemail@gmail.com)
+📧 Email: [torofrancisco13@gmail.com](mailto:torofrancisco13@gmail.com)
 
 
 ---
