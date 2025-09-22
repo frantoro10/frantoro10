@@ -10,7 +10,7 @@ I enjoy solving real-world problems through code and continuously learning new t
 ---
 
 ### ⚙️ Technologies & Tools
-
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
 ![React](https://img.shields.io/badge/React-18.2.0-blue?style=for-the-badge&logo=react)  
 ![Next.js](https://img.shields.io/badge/Next.js-15.3.4-black?style=for-the-badge&logo=next.js)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)  
@@ -18,7 +18,8 @@ I enjoy solving real-world problems through code and continuously learning new t
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v3.3.3-skyblue?style=for-the-badge&logo=tailwind-css)  
 ![Node.js](https://img.shields.io/badge/Node.js-v20-green?style=for-the-badge&logo=node.js)  
 ![Express](https://img.shields.io/badge/Express.js-4.18.2-black?style=for-the-badge)  
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)  
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)  
 ![FastAPI](https://img.shields.io/badge/FastAPI-v0.95-green?style=for-the-badge)  
 ![PHP](https://img.shields.io/badge/PHP-8.2-purple?style=for-the-badge&logo=php)  
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=for-the-badge&logo=mysql)  
