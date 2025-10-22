@@ -2,7 +2,7 @@
 
 ### 💻 About Me
 
-I’m **Francisco Toro**, a passionate Software Development student at Instituto Politécnico Córdoba (ISPC).  
+I’m **Francisco Toro**, a passionate Software Developer student at Instituto Politécnico Córdoba (ISPC).  
 Focused on building clean, efficient, and scalable web applications.
 
 I enjoy solving real-world problems through code and continuously learning new tools and frameworks. My goal is to create impactful projects and grow professionally in the software industry.
