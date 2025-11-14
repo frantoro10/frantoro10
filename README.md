@@ -10,16 +10,13 @@ I enjoy solving real-world problems through code and continuously learning new t
 ---
 
 ### ⚙️ Technologies & Tools
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)  
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)  
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)  
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-skyblue?style=for-the-badge&logo=tailwind-css)  
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)   
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)  
-![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge)  
+![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)  
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)  
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-skyblue?style=for-the-badge&logo=tailwind-css)  
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)  
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)  
