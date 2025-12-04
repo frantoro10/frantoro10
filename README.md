@@ -37,8 +37,8 @@ I am a **Junior Software Developer** from Argentina, focused on building end-to-
 
 ### 📫 Let's Connect
 
-- **Portfolio:** [portafolio-francisco-toro.vercel.app](https://franciscotoro-dev.vercel.app/)
-- **LinkedIn:** [linkedin.com/in/tu-usuario](https://www.linkedin.com/in/francisco-toro-goitea/)
+- **Portfolio:** [https://franciscotoro-dev.vercel.app/](https://franciscotoro-dev.vercel.app/)
+- **LinkedIn:** [https://www.linkedin.com/in/francisco-toro-goitea/](https://www.linkedin.com/in/francisco-toro-goitea/)
 
 ### 📂 Explore my Repositories
 
