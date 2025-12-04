@@ -1,41 +1,44 @@
-# 👋 Hi, I’m Francisco Toro!
+# Hi there, I'm Francisco Toro! 👋
 
-### 💻 About Me
+I am a **Junior Software Developer** from Argentina, focused on building end-to-end web solutions using the **Python** and **JavaScript** ecosystems. I specialize in bridging the gap between robust backends and dynamic frontends, currently exploring **AI integrations (RAG/LLMs)**.
 
-I’m **Francisco Toro**, a passionate Software Developer student at Instituto Politécnico Córdoba (ISPC).  
-Focused on building clean, efficient, and scalable web applications.
-
-I enjoy solving real-world problems through code and continuously learning new tools and frameworks. My goal is to create impactful projects and grow professionally in the software industry.
-
----
-
-### ⚙️ Technologies & Tools
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)  
-![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)  
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)  
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-skyblue?style=for-the-badge&logo=tailwind-css)  
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)  
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)  
-![WordPress](https://img.shields.io/badge/WordPress-Blue?style=for-the-badge&logo=wordpress)
+- 🔭 I’m currently working on **AI-integrated Chatbots using FastAPI & RAG**.
+- 🌱 I’m currently learning **Docker and Advanced Architecture Patterns**.
+- 💡 I believe in **Clean Code**, SOLID principles, and building software with purpose.
+- ⚡ Fun fact: I enjoy discussing ideas over a good cup of coffee ☕, football ⚽, and basketball 🏀.
 
 ---
 
-### 📫 Let’s connect!
+### 🛠️ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-toro-goitea-475b71277/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portafolio-francisco-toro.vercel.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frantoro10)  
+**Frontend & Frameworks:**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
-📧 Email: [torofrancisco13@gmail.com](mailto:torofrancisco13@gmail.com)
+**Backend & Python:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
+**Database & Cloud Services:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+**DevOps & Tools:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=flat&logo=WordPress&logoColor=white)
 
 ---
+
+### 📫 Let's Connect
+
+- **Portfolio:** [portafolio-francisco-toro.vercel.app](https://franciscotoro-dev.vercel.app/)
+- **LinkedIn:** [linkedin.com/in/tu-usuario](https://www.linkedin.com/in/francisco-toro-goitea/)
 
 ### 📂 Explore my Repositories
 
