@@ -1,6 +1,6 @@
 # Hi there, I'm Francisco Toro! 👋
 
-I am a **Junior Software Developer** from Argentina, focused on building end-to-end web solutions using the **Python** and **JavaScript** ecosystems. I specialize in bridging the gap between robust backends and dynamic frontends, currently exploring **AI integrations (RAG/LLMs)**.
+I am a ** Software Developer** from Argentina, focused on building end-to-end web solutions using the **Python** and **JavaScript** ecosystems. I specialize in bridging the gap between robust backends and dynamic frontends, currently exploring **AI integrations (RAG/LLMs)**.
 
 - 🔭 I’m currently working on **AI-integrated Chatbots using FastAPI & RAG**.
 - 🌱 I’m currently learning **Docker and Advanced Architecture Patterns**.
