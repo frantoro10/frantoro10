@@ -1,47 +1,70 @@
-# Hi there, I'm Francisco Toro! 👋
+# Hi, I'm Francisco Toro 👋
 
-I am a **Software Developer** from Argentina, focused on building end-to-end web solutions using the **Python** and **JavaScript** ecosystems. I specialize in bridging the gap between robust backends and dynamic frontends, currently exploring **AI integrations (RAG/LLMs)**.
+**Software Developer | Python, Back-End, Full Stack & AI Integration**
 
-- 🔭 I’m currently working on **AI-integrated Chatbots using FastAPI & RAG**.
-- 🌱 I’m currently learning **Docker and Advanced Architecture Patterns**.
-- 💡 I believe in **Clean Code**, SOLID principles, and building software with purpose.
-- ⚡ Fun fact: I enjoy discussing ideas over a good cup of coffee ☕, football ⚽, and basketball 🏀.
+I build web applications with Python and JavaScript/TypeScript, from APIs and databases to the front end. I'm currently focused on AI integration, including RAG and LLM-based applications.
+
+-  Building an AI-integrated chatbot with **FastAPI and RAG**
+-  Deepening **Docker** and software architecture patterns
+-  Clean code, SOLID principles and building software with purpose
+-  Fun fact: I enjoy coffee ☕, football ⚽ and basketball 🏀
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
-**Frontend & Frameworks:**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+**Languages:**
 
-**Backend:**
-![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Back-End:**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 
-**Database & Cloud Services:**
+**Front-End:**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
+
+**Databases & Cloud:**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 **DevOps & Tools:**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=flat&logo=WordPress&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+
+**AI:** AI integration (RAG, LLMs), AI-assisted development with multiple Claude agents, Machine Learning fundamentals
+
+<!--
+###  Featured Projects
+
+- **[Project name](https://github.com/frantoro10/REPO)**: one line about what it does. Stack: FastAPI, PostgreSQL, Docker.
+- **[Project name](https://github.com/frantoro10/REPO)**: one line about what it does. Stack: React, TypeScript.
+-->
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
-- **Portfolio:** [https://franciscotorogoitea.vercel.app/](https://franciscotorogoitea.vercel.app/)
-- **LinkedIn:** [https://www.linkedin.com/in/francisco-toro-goitea/](https://www.linkedin.com/in/francisco-toro-goitea/)
+- **Portfolio:** [franciscotorogoitea.vercel.app](https://franciscotorogoitea.vercel.app/)
+- **LinkedIn:** [francisco-toro-goitea](https://www.linkedin.com/in/francisco-toro-goitea/)
+- **Email:** torofrancisco13@gmail.com
 
-### 📂 Explore my Repositories
+###  Explore my Repositories
 
 👉 [All my GitHub repositories](https://github.com/frantoro10?tab=repositories)
 
